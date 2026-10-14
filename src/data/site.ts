@@ -172,7 +172,7 @@ export const projects: Project[] = [
     private: true,
     // Put screenshots in public/projects/specto/ and list them here, e.g.:
     // images: ["/projects/specto/home.png", "/projects/specto/spectrogram.png"],
-    images: [],
+    images: ["/projects/specto/app-image1.png"],
     videos: [],
   },
   {
@@ -189,7 +189,7 @@ export const projects: Project[] = [
       "Frontend built with HTML, CSS and JavaScript",
       "Backend services integrated with MySQL for data handling",
     ],
-    challenges: ["TODO: add a real challenge from the repo (e.g. data model, booking flow)."],
+    challenges: [],
     learned: ["Connecting a responsive frontend to backend services and a relational database."],
     github: "https://github.com/Advanced-computer-lab-2024/Rafiki",
     demo: null,
@@ -208,7 +208,7 @@ export const projects: Project[] = [
       "Interactive gameplay mechanics and enemy AI",
       "Performance optimized for smooth execution",
     ],
-    challenges: ["TODO: add a real challenge from the repo."],
+    challenges: [],
     learned: ["Structuring a game with object-oriented design and implementing enemy behavior."],
     github: null, // TODO: add repo URL if public
     demo: null,
@@ -227,7 +227,7 @@ export const projects: Project[] = [
       "Interactive gameplay mechanics and enemy AI",
       "Performance optimized for smooth execution",
     ],
-    challenges: ["TODO: add a real challenge from the repo."],
+    challenges: [],
     learned: ["Designing gameplay systems and enemy AI in Java."],
     github: null, // TODO: add repo URL if public
     demo: null,
@@ -246,7 +246,7 @@ export const projects: Project[] = [
       "Gameplay balancing",
       "Unity physics and asset integration",
     ],
-    challenges: ["TODO: add a real challenge (e.g. obstacle spawning, difficulty curve)."],
+    challenges: [],
     learned: ["Balancing gameplay and integrating assets and physics in Unity."],
     github: null,
     demo: null,
@@ -266,7 +266,7 @@ export const projects: Project[] = [
       "Gameplay balancing",
       "Unity physics and asset integration",
     ],
-    challenges: ["TODO: add a real challenge (e.g. combat, enemy behavior)."],
+    challenges: [],
     learned: ["Designing a 3D action game with interactive environments in Unity."],
     github: null,
     demo: null,
@@ -286,7 +286,7 @@ export const projects: Project[] = [
       "Collision detection",
       "Animation logic for real-time interactive gameplay",
     ],
-    challenges: ["TODO: add a real challenge from the repo."],
+    challenges: [],
     learned: ["Low-level graphics, collision detection and animation in C."],
     github: null, // TODO: add repo URL if public
     demo: null,

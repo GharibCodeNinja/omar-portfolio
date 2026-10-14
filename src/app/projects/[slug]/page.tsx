@@ -157,7 +157,6 @@ export default async function ProjectPage({ params }: Params) {
         </div>
 
         <div className="mt-10 text-center">
-          <Button href={`mailto:${site.email}`}>Talk to me about this project</Button>
         </div>
       </main>
       <Footer />
