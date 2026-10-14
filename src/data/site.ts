@@ -24,7 +24,7 @@ export interface Project {
 
 
 export const site = {
-  name: "Omar Ahmed Gharib",
+  name: "Omar Gharib",
   shortName: "Omar Gharib",
   title: "Media Engineering Technology Graduate | Software Developer",
   headline: "Building software, intelligent applications, and digital experiences.",
@@ -36,14 +36,14 @@ export const site = {
   email: "omaraghariib@gmail.com",
   github: "https://github.com/GharibCodeNinja",
   linkedin: "https://www.linkedin.com/in/omar-gharib-348933367",
-  cv: "/cv/Omar-Ahmed-Ghareeb-CV.pdf",
+  cv: "/cv/omargharib_cv.pdf",
   // Messages are delivered to your email by FormSubmit (free, no account).
   // First message ever sent: FormSubmit emails you an activation link. Click it once.
   // Leave empty ("") to fall back to opening the visitor's email app.
   contactFormEndpoint: "https://formsubmit.co/ajax/omaraghariib@gmail.com",
   roles: [
-    "Junior Software Engineer",
-    "Junior Full-Stack Developer",
+    " Software Engineer",
+    " Full-Stack Developer",
     "Backend Developer",
     "Frontend Developer",
     "AI / Software Engineer",
@@ -317,7 +317,7 @@ export const projectFilters: { label: string; value: "all" | ProjectCategory }[]
 
 export const experience = [
   {
-    role: "Junior Software Developer Intern",
+    role: "Software Developer Intern",
     company: "Sportyano for Electronic and Digital Systems",
     location: "Giza, Egypt",
     period: "July 2024 – September 2024",

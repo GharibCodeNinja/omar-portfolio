@@ -42,7 +42,7 @@ export function Hero() {
             className="glass inline-flex items-center gap-2 rounded-full px-3.5 py-1.5 text-xs text-muted"
           >
             <span className="size-1.5 rounded-full bg-emerald-400" />
-            Open to junior roles, remote and international
+            Open to On site , remote and international
           </motion.p>
 
           <motion.h1

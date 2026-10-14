@@ -25,7 +25,7 @@ Omar enjoys solving technical problems, learning new technologies, and developin
 
 ## Career Interests
 Omar is interested in opportunities related to:
-- Junior Software Engineering.
+-  Software Engineering.
 - Backend Development.
 - Full-Stack Development.
 - Frontend Development.
@@ -127,7 +127,7 @@ These are target career areas, not necessarily roles he has held professionally.
 
 ## Professional Experience
 
-### Junior Software Developer Intern — Sportyano for Electronic and Digital Systems
+### Software Developer Intern — Sportyano for Electronic and Digital Systems
 - Location: Giza, Egypt.
 - Duration: July 2024 to September 2024.
 - Department: Information Technology.
@@ -289,7 +289,7 @@ Q: Is Omar a Computer Science graduate?
 A: No. His degree is in Media Engineering Technology, not Computer Science.
 
 Q: Does Omar have professional experience?
-A: Yes. He completed a Junior Software Developer internship at Sportyano for Electronic and Digital Systems from July to September 2024.
+A: Yes. He completed a Software Developer internship at Sportyano for Electronic and Digital Systems from July to September 2024.
 
 Q: What is Omar's strongest AI-related project?
 A: Specto, an AI-powered mobile audio analyzer built with Flutter, Dart, TensorFlow Lite, and digital signal processing.
