@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { knowledge } from "@/data/knowledge";
 import { site } from "@/data/site"; // adjust path / export name to match yours
 
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";
 const hits = new Map<string, number[]>();
 let globalDay = { date: "", count: 0 };
 
