@@ -32,7 +32,7 @@ export const site = {
     "I'm a recent Media Engineering Technology graduate from GUC, passionate about software engineering, AI-powered applications, and full-stack development. I enjoy transforming complex problems into practical, well-designed solutions.",
   location: "Cairo, Egypt",
   copyrightYear: 2026, // update once a year
-  url: "https://omar-portfolio.vercel.app", // TODO: replace with your real Vercel URL after deploying
+  url: "https://omar-portfolio-silk.vercel.app/", // TODO: replace with your real Vercel URL after deploying
   email: "omaraghariib@gmail.com",
   github: "https://github.com/GharibCodeNinja",
   linkedin: "https://www.linkedin.com/in/omar-gharib-348933367",
